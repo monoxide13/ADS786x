@@ -28,6 +28,7 @@ class ADS786x {
 	bool isUndertemp();
 	bool isOvertemp();
 	int16_t correctionFactor;
+	uint16_t maxValue = 4095;
 	
 	protected:
 	bool undertemped;
