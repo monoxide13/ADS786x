@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For ADS786x
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ADS786x	KEYWORD1
+ADS7866	KEYWORD1
+ADS7867	KEYWORD1
+ADS7868	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+receive KEYWORD2
+isUndertemp KEYWORD2
+isOvertemp KEYWORD2
+correctionFactor KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+resolution LITERAL1
+maxValue LITERAL1
